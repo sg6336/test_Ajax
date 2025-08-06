@@ -1,2 +1,5 @@
 code 0
+<<<<<<< HEAD
 code 1
+code 2
+>>>>>>> dev
